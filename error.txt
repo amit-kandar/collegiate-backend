@@ -1,0 +1,3 @@
+if user not exits in database no addpost, editpost, deletepost // User should be log in then this function will run
+use cookies for jwt autentication after frontend
+have to implement chatting system
